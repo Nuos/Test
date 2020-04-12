@@ -11,3 +11,6 @@ https://yq.aliyun.com/articles/243708
 https://www.ctolib.com/topics-91330.html
 https://blog.csdn.net/cjf_wei/article/details/79185310
 https://stackoverflow.com/questions/1011339/how-do-you-make-a-http-request-with-c
+
+
+https://blog.csdn.net/u012297622/article/details/51462437
